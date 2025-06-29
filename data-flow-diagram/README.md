@@ -243,5 +243,3 @@ The four databases represent the core data models:
 - **Content delivery**: CDN for property images and static assets
 
 ---
-
-*This simplified Data Flow Diagram provides a clear foundation for understanding and implementing the Airbnb Clone backend system architecture.*
